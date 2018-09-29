@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Book Seller Warehouse</string>
+    <string name="action_save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="add_new_book">New Book</string>
+
+    <!-- Names of all major suppliers of books for the spinner and inventory fields-->
+
+    <string name="penguinrandom">Penguin Random House</string>
+    <string name="simonschuster">Simon and Schuster</string>
+    <string name="scholastic">Scholastic</string>
+    <string name="tyndale">Tyndale House</string>
+    <string name="other">Other/Independent</string>
+    <string name="book_add">Add Book</string>
+    <string name="book_title">Book Title</string>
+    <string name="price">Price</string>
+    <string name="quantity">Title Quantity</string>
+    <string name="supplier">Supplier</string>
+    <string name="author_name">Author</string>
+    <string name="supplier_phone">Supplier Phone</string>
+
+</resources>
